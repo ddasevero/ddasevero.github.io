@@ -52,7 +52,6 @@ Nome | Nível
 ---- | -----
 HTML5 | Avançado
 CSS3 | Avançado
-Canvas | Médio
 Javascipt | Médio
 PHP | Médio
 SQL | Baixo
