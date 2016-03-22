@@ -1,6 +1,3 @@
-# ddasevero.github.io
-Meu CV
-
 #Dyego Severo
 Designer de Interfaces e Desenvolvedor Front-end
 
